@@ -127,21 +127,25 @@ Working toward:
 
 <td width="50%">
 
-### 📈 Student Performance ML
+### 🌐 Localized RAG System
 
-**Python • Pandas • Scikit-learn • Matplotlib**
+**LLMs • RAG • Embeddings • Vector Database**
 
-A practical machine-learning project exploring:
+A Retrieval-Augmented Generation system designed to provide **context-aware answers from localized knowledge sources**.
 
-* Data preprocessing
-* Feature/target selection
-* Linear Regression
-* Logistic Regression
-* Train/test splitting
-* Model evaluation
-* Data visualization
+The system combines document retrieval with an LLM to generate responses grounded in relevant local information.
 
-**Status:** 🟢 Learning Project
+Exploring:
+
+* 📄 Document ingestion & preprocessing
+* 🔎 Semantic search
+* 🧩 Text embeddings
+* 🗄️ Vector database / vector store
+* 🤖 LLM-powered response generation
+* 📚 Context-grounded answers
+* 🌍 Localized knowledge retrieval
+
+**Status:** 🟡 Ongoing
 
 </td>
 </tr>
